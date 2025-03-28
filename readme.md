@@ -1,1 +1,1 @@
-the open ai api key is not integrated yet 
+the open ai api is not integrated yet 
